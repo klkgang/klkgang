@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klkgang" alt="klkgang" /></a> </p>
 
-- 🔭 I’m currently working on **ProjectDS**
+- 🔭 I’m currently working on **ProjectMK**
 
 - 🌱 I’m currently learning **SQL, advanced python,Javascritp,Css,Htlml and the bases of Java**
 
